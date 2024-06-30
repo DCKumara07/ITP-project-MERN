@@ -46,7 +46,7 @@ We built this project using the MERN stack, which includes **MongoDB**, **Expres
 
 ## System User Interfaces 
 
-## Supplier Management Supper Side
+## Supplier Management (Supper Side)
 
 ### Starting UI
 ![home page](https://github.com/DCKumara07/ITP-project-MERN/assets/159523598/a18e04a7-a203-49a1-b082-bc1d8d32f618)
