@@ -86,7 +86,13 @@ We built this project using the MERN stack, which includes **MongoDB**, **Expres
 
 
 
+## Supplier Management System Overview !
 
+<p>For our second-year, second-semester project, we developed a warehouse management system using the MERN stack. My part was focused on supplier management. We decided that suppliers shouldn't have direct access to the main system and should interact with it externally.<br>
+
+After creating a separate system for suppliers, we ensured that their activities were visible on the admin side. Suppliers can register in the system, but they cannot access it directly. Their requests go to the admin's supplier request page, where the admin can approve or reject them. Once approved, the supplier can access the supplier system.<br>
+
+In this system, suppliers can update and delete their accounts. They can also add items, which are then displayed on the admin side. The admin has a supplier items list page and can generate reports with all supplier details and item lists.</p>
 
 
 
